@@ -1,3 +1,4 @@
+ <h3 align="center">Mern Stack Project</h3>
  ![alt text](https://github.com/zakariaeNasri/ProjectNode-React/blob/main/Mern.png?raw=true)
 
 # iCinema
